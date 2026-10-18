@@ -1,0 +1,10 @@
+# Лише три форми: «Продукт» і «Вимога» (PM), «Питання до вимог» (розробники). Порожні issues вимкнено, щоб кожне
+# issue мало мітку: /requirements-sync розробників бачить вимоги саме за мітками.
+blank_issues_enabled: false
+contact_links:
+  - name: Як вести вимоги в цьому репо
+    url: https://github.com/koldovsky/2026-quitcode-06-spec-template#readme
+    about: Інструкція для PM і розробників — README шаблону вимог.
+  - name: Чекліст якості вимог
+    url: https://github.com/koldovsky/2026-quitcode-06-spec-template/blob/main/docs/checklist.md
+    about: Як перевірити вимогу перед публікацією і готовий промпт для AI-чату.
